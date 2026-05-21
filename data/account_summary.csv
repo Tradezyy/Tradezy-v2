@@ -1,12 +1,12 @@
 Key,Value
 Balance,100.98
-Equity,99.40
-Profit,-1.58
+Equity,101.74
+Profit,0.76
 Deposit,273.83
 Withdrawal,621.42
 NetPnl,448.57
 Margin,45.46
-FreeMargin,53.94
+FreeMargin,56.28
 Currency,USD
 Login,227997500
 Server,Exness-MT5Real31
