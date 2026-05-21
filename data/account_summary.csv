@@ -5,8 +5,8 @@ Profit,0.00
 Deposit,273.83
 Withdrawal,621.42
 NetPnl,449.82
-Margin,62.33
-FreeMargin,39.90
+Margin,0.00
+FreeMargin,102.23
 Currency,USD
 Login,227997500
 Server,Exness-MT5Real31
